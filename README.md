@@ -10,7 +10,8 @@
   go get word-template-editor
   ```
 
-- [WIP]Githubからダウンロード
+- Githubからダウンロード
+  - For Mac: https://github.com/sh-miyoshi/word-template-editor/releases/download/v0.1/word-template-editor
 
 ### 2. templateファイルを準備
 
